@@ -14,6 +14,7 @@ _Open in your preferred text editor for a closer look at the code._
 ## User Stories
 * _As a user, I want to..._
 * _View a landing page with contact info and a description of the company._
+* _See a list of clickable links to adoption resources._
 * _See a list of types of pets available for adoption._
 
 ## Project Goals
